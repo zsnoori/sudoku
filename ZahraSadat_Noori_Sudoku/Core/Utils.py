@@ -56,3 +56,6 @@ class Sudoku:
                 self.board[row][col] = 0
 
         return False
+
+    def str_to_list(self):
+      return self.board.replace(',', '').replace('[','').replace(']','')
