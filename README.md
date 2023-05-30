@@ -8,7 +8,7 @@ You are in the right place. Give me the unsolved sudoku, and I'll show you the s
 Insert the board as a string in this format: </br>
 - for empty cells use 0.
 - insert numbers of a row widout any space.
-- use , to seprate columns.
+- use , to separate columns.
 
 ### **Example:** </br>
 **Input:** </br>
